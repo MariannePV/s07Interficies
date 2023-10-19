@@ -1,0 +1,7 @@
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\project01.pdb
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\win-x64\publish\project01.exe

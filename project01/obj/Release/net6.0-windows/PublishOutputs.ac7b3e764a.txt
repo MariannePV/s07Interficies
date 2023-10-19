@@ -1,0 +1,5 @@
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\publish\project01.exe
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\publish\project01.dll
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\publish\project01.deps.json
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\publish\project01.runtimeconfig.json
+C:\Users\maria\Desktop\DAM\2n DAM\M07 - Interfícies\A07\s07dp\project01\bin\Release\net6.0-windows\publish\project01.pdb
